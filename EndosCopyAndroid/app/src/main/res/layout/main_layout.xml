@@ -1,0 +1,190 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent" >
+
+    <LinearLayout
+        android:id="@+id/linearLayout1"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="8dp"
+        android:layout_marginRight="8dp"
+        android:layout_marginTop="92dp"
+        android:orientation="vertical" >
+
+        <LinearLayout
+            android:layout_width="fill_parent"
+            android:layout_height="80dp"
+            android:orientation="horizontal" >
+
+            <ImageView
+                android:onClick="goSubMenu"
+                android:tag="1"
+                android:layout_width="0dp"
+                android:layout_height="fill_parent"
+                android:layout_weight="1"
+                android:contentDescription="@string/top_button1"
+                android:src="@drawable/popovericon_stomach" />
+
+            <ImageView
+                android:onClick="goSubMenu"
+                android:tag="2"
+                android:layout_width="0dp"
+                android:layout_height="fill_parent"
+                android:layout_weight="1"
+                android:contentDescription="@string/top_button2"
+                android:src="@drawable/popovericon_colonoscopy" />
+
+            <ImageView
+                android:onClick="goSubMenu"
+                android:tag="3"
+                android:layout_width="0dp"
+                android:layout_height="fill_parent"
+                android:layout_weight="1"
+                android:contentDescription="@string/top_button3"
+                android:src="@drawable/popovericon_ercp" />
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="fill_parent"
+            android:layout_height="20dp"
+            android:layout_marginTop="5dp" >
+
+            <TextView
+                android:layout_width="fill_parent"
+                android:layout_height="fill_parent"
+                android:layout_weight="1"
+                android:gravity="center"
+                android:text="@string/top_button1"
+                android:textSize="@dimen/main_text_size" />
+
+            <TextView
+                android:layout_width="fill_parent"
+                android:layout_height="fill_parent"
+                android:layout_weight="1"
+                android:gravity="center"
+                android:text="@string/top_button2"
+                android:textSize="@dimen/main_text_size" />
+
+            <TextView
+                android:layout_width="fill_parent"
+                android:layout_height="fill_parent"
+                android:layout_weight="1"
+                android:gravity="center"
+                android:text="@string/top_button3"
+                android:textSize="@dimen/main_text_size" />
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="fill_parent"
+            android:layout_height="80dp"
+            android:layout_marginTop="10dp"
+            android:orientation="horizontal" >
+
+            <ImageView
+                android:onClick="goSubMenu"
+                android:tag="4"
+                android:layout_width="0dp"
+                android:layout_height="80dp"
+                android:layout_weight="1"
+                android:contentDescription="@string/top_button4"
+                android:src="@drawable/popovericon_caution" />
+
+            <ImageView
+                android:onClick="goSubMenu"
+                android:tag="5"
+                android:layout_width="0dp"
+                android:layout_height="80dp"
+                android:layout_weight="1"
+                android:contentDescription="@string/top_button5"
+                android:src="@drawable/popovericon_biopsy" />
+
+            <ImageView
+                android:onClick="goSubMenu"
+                android:tag="6"
+                android:layout_width="0dp"
+                android:layout_height="80dp"
+                android:layout_weight="1"
+                android:contentDescription="@string/top_button6"
+                android:src="@drawable/popovericon_con" />
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="fill_parent"
+            android:layout_height="20dp"
+            android:layout_marginTop="5dp" >
+
+            <TextView
+                android:layout_width="fill_parent"
+                android:layout_height="fill_parent"
+                android:layout_weight="0.32"
+                android:gravity="center"
+                android:text="@string/top_button4"
+                android:textSize="@dimen/main_text_size" />
+
+            <TextView
+                android:layout_width="fill_parent"
+                android:layout_height="fill_parent"
+                android:layout_weight="0.34"
+                android:gravity="center"
+                android:text="@string/top_button5"
+                android:textSize="@dimen/main_text_size" />
+
+            <TextView
+                android:layout_width="fill_parent"
+                android:layout_height="fill_parent"
+                android:layout_weight="0.34"
+                android:gravity="center"
+                android:text="@string/top_button6"
+                android:textSize="@dimen/main_text_size" />
+        </LinearLayout>
+    </LinearLayout>
+
+    <ImageView
+        android:id="@+id/imageView1"
+        android:layout_width="65dp"
+        android:layout_height="65dp"
+        android:layout_alignParentBottom="true"
+        android:layout_alignParentLeft="true"
+        android:layout_marginBottom="15dp"
+        android:layout_marginLeft="30dp"
+        android:contentDescription="@string/logo_image_description"
+        android:src="@drawable/ksge_logo" />
+
+    <TextView
+        android:id="@+id/textView1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignTop="@+id/imageView1"
+        android:layout_marginLeft="8dp"
+        android:layout_marginTop="10dp"
+        android:layout_toRightOf="@+id/imageView1"
+        android:text="@string/top_bottomtext1"
+        android:textSize="17sp"
+        android:typeface="monospace" />
+
+    <TextView
+        android:id="@+id/textView2"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignLeft="@+id/textView1"
+        android:layout_below="@+id/textView1"
+        android:layout_marginTop="1dp"
+        android:text="@string/top_bottomtext2"
+        android:textSize="17sp"
+        android:typeface="monospace" />
+
+    <Button
+        android:id="@+id/btInfo"
+        android:layout_width="30dp"
+        android:layout_height="30dp"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentRight="true"
+        android:layout_marginRight="18dp"
+        android:layout_marginTop="20dp"
+        android:background="@drawable/rounded_button"
+        android:textStyle="italic"
+        android:text="i"
+        android:textSize="15sp"/>
+
+</RelativeLayout>

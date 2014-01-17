@@ -1,0 +1,506 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger>
+
+    <dataSet config="main" >
+        <source path="/Users/jdsong/AndroidStudioProjects/EndosCopyAndroid/app/src/main/res" >
+            <file
+                name="card_flip_left_in"
+                path="/Users/jdsong/AndroidStudioProjects/EndosCopyAndroid/app/src/main/res/anim/card_flip_left_in.xml"
+                qualifiers=""
+                type="anim" />
+            <file
+                name="card_flip_left_out"
+                path="/Users/jdsong/AndroidStudioProjects/EndosCopyAndroid/app/src/main/res/anim/card_flip_left_out.xml"
+                qualifiers=""
+                type="anim" />
+            <file
+                name="card_flip_right_in"
+                path="/Users/jdsong/AndroidStudioProjects/EndosCopyAndroid/app/src/main/res/anim/card_flip_right_in.xml"
+                qualifiers=""
+                type="anim" />
+            <file
+                name="card_flip_right_out"
+                path="/Users/jdsong/AndroidStudioProjects/EndosCopyAndroid/app/src/main/res/anim/card_flip_right_out.xml"
+                qualifiers=""
+                type="anim" />
+            <file
+                name="card_flip_left_in"
+                path="/Users/jdsong/AndroidStudioProjects/EndosCopyAndroid/app/src/main/res/animator/card_flip_left_in.xml"
+                qualifiers=""
+                type="animator" />
+            <file
+                name="card_flip_left_out"
+                path="/Users/jdsong/AndroidStudioProjects/EndosCopyAndroid/app/src/main/res/animator/card_flip_left_out.xml"
+                qualifiers=""
+                type="animator" />
+            <file
+                name="card_flip_right_in"
+                path="/Users/jdsong/AndroidStudioProjects/EndosCopyAndroid/app/src/main/res/animator/card_flip_right_in.xml"
+                qualifiers=""
+                type="animator" />
+            <file
+                name="card_flip_right_out"
+                path="/Users/jdsong/AndroidStudioProjects/EndosCopyAndroid/app/src/main/res/animator/card_flip_right_out.xml"
+                qualifiers=""
+                type="animator" />
+            <file
+                name="icon_arrow"
+                path="/Users/jdsong/AndroidStudioProjects/EndosCopyAndroid/app/src/main/res/drawable/icon_arrow.png"
+                qualifiers=""
+                type="drawable" />
+            <file
+                name="popovericon_biopsy"
+                path="/Users/jdsong/AndroidStudioProjects/EndosCopyAndroid/app/src/main/res/drawable/popovericon_biopsy.png"
+                qualifiers=""
+                type="drawable" />
+            <file
+                name="popovericon_caution"
+                path="/Users/jdsong/AndroidStudioProjects/EndosCopyAndroid/app/src/main/res/drawable/popovericon_caution.png"
+                qualifiers=""
+                type="drawable" />
+            <file
+                name="popovericon_colonoscopy"
+                path="/Users/jdsong/AndroidStudioProjects/EndosCopyAndroid/app/src/main/res/drawable/popovericon_colonoscopy.png"
+                qualifiers=""
+                type="drawable" />
+            <file
+                name="popovericon_con"
+                path="/Users/jdsong/AndroidStudioProjects/EndosCopyAndroid/app/src/main/res/drawable/popovericon_con.png"
+                qualifiers=""
+                type="drawable" />
+            <file
+                name="popovericon_ercp"
+                path="/Users/jdsong/AndroidStudioProjects/EndosCopyAndroid/app/src/main/res/drawable/popovericon_ercp.png"
+                qualifiers=""
+                type="drawable" />
+            <file
+                name="popovericon_stomach"
+                path="/Users/jdsong/AndroidStudioProjects/EndosCopyAndroid/app/src/main/res/drawable/popovericon_stomach.png"
+                qualifiers=""
+                type="drawable" />
+            <file
+                name="rounded_button"
+                path="/Users/jdsong/AndroidStudioProjects/EndosCopyAndroid/app/src/main/res/drawable/rounded_button.xml"
+                qualifiers=""
+                type="drawable" />
+            <file
+                name="rounded_cell"
+                path="/Users/jdsong/AndroidStudioProjects/EndosCopyAndroid/app/src/main/res/drawable/rounded_cell.xml"
+                qualifiers=""
+                type="drawable" />
+            <file
+                name="rounded_cell_red"
+                path="/Users/jdsong/AndroidStudioProjects/EndosCopyAndroid/app/src/main/res/drawable/rounded_cell_red.xml"
+                qualifiers=""
+                type="drawable" />
+            <file
+                name="ic_launcher"
+                path="/Users/jdsong/AndroidStudioProjects/EndosCopyAndroid/app/src/main/res/drawable-hdpi/ic_launcher.png"
+                qualifiers="hdpi"
+                type="drawable" />
+            <file
+                name="ksge_logo"
+                path="/Users/jdsong/AndroidStudioProjects/EndosCopyAndroid/app/src/main/res/drawable-hdpi/ksge_logo.png"
+                qualifiers="hdpi"
+                type="drawable" />
+            <file
+                name="splash"
+                path="/Users/jdsong/AndroidStudioProjects/EndosCopyAndroid/app/src/main/res/drawable-hdpi/splash.png"
+                qualifiers="hdpi"
+                type="drawable" />
+            <file
+                name="ksge_logo"
+                path="/Users/jdsong/AndroidStudioProjects/EndosCopyAndroid/app/src/main/res/drawable-ldpi/ksge_logo.png"
+                qualifiers="ldpi"
+                type="drawable" />
+            <file
+                name="splash"
+                path="/Users/jdsong/AndroidStudioProjects/EndosCopyAndroid/app/src/main/res/drawable-ldpi/splash.png"
+                qualifiers="ldpi"
+                type="drawable" />
+            <file
+                name="ic_launcher"
+                path="/Users/jdsong/AndroidStudioProjects/EndosCopyAndroid/app/src/main/res/drawable-mdpi/ic_launcher.png"
+                qualifiers="mdpi"
+                type="drawable" />
+            <file
+                name="ksge_logo"
+                path="/Users/jdsong/AndroidStudioProjects/EndosCopyAndroid/app/src/main/res/drawable-mdpi/ksge_logo.png"
+                qualifiers="mdpi"
+                type="drawable" />
+            <file
+                name="splash"
+                path="/Users/jdsong/AndroidStudioProjects/EndosCopyAndroid/app/src/main/res/drawable-mdpi/splash.png"
+                qualifiers="mdpi"
+                type="drawable" />
+            <file
+                name="ic_launcher"
+                path="/Users/jdsong/AndroidStudioProjects/EndosCopyAndroid/app/src/main/res/drawable-xhdpi/ic_launcher.png"
+                qualifiers="xhdpi"
+                type="drawable" />
+            <file
+                name="ksge_logo"
+                path="/Users/jdsong/AndroidStudioProjects/EndosCopyAndroid/app/src/main/res/drawable-xhdpi/ksge_logo.png"
+                qualifiers="xhdpi"
+                type="drawable" />
+            <file
+                name="splash"
+                path="/Users/jdsong/AndroidStudioProjects/EndosCopyAndroid/app/src/main/res/drawable-xhdpi/splash.png"
+                qualifiers="xhdpi"
+                type="drawable" />
+            <file
+                name="ic_launcher"
+                path="/Users/jdsong/AndroidStudioProjects/EndosCopyAndroid/app/src/main/res/drawable-xxhdpi/ic_launcher.png"
+                qualifiers="xxhdpi"
+                type="drawable" />
+            <file
+                name="ksge_logo"
+                path="/Users/jdsong/AndroidStudioProjects/EndosCopyAndroid/app/src/main/res/drawable-xxhdpi/ksge_logo.png"
+                qualifiers="xxhdpi"
+                type="drawable" />
+            <file
+                name="splash"
+                path="/Users/jdsong/AndroidStudioProjects/EndosCopyAndroid/app/src/main/res/drawable-xxhdpi/splash.png"
+                qualifiers="xxhdpi"
+                type="drawable" />
+            <file
+                name="activity_card_flip"
+                path="/Users/jdsong/AndroidStudioProjects/EndosCopyAndroid/app/src/main/res/layout/activity_card_flip.xml"
+                qualifiers=""
+                type="layout" />
+            <file
+                name="footer_1"
+                path="/Users/jdsong/AndroidStudioProjects/EndosCopyAndroid/app/src/main/res/layout/footer_1.xml"
+                qualifiers=""
+                type="layout" />
+            <file
+                name="footer_2"
+                path="/Users/jdsong/AndroidStudioProjects/EndosCopyAndroid/app/src/main/res/layout/footer_2.xml"
+                qualifiers=""
+                type="layout" />
+            <file
+                name="footer_3"
+                path="/Users/jdsong/AndroidStudioProjects/EndosCopyAndroid/app/src/main/res/layout/footer_3.xml"
+                qualifiers=""
+                type="layout" />
+            <file
+                name="footer_5"
+                path="/Users/jdsong/AndroidStudioProjects/EndosCopyAndroid/app/src/main/res/layout/footer_5.xml"
+                qualifiers=""
+                type="layout" />
+            <file
+                name="info_layout"
+                path="/Users/jdsong/AndroidStudioProjects/EndosCopyAndroid/app/src/main/res/layout/info_layout.xml"
+                qualifiers=""
+                type="layout" />
+            <file
+                name="layout_sub_webview"
+                path="/Users/jdsong/AndroidStudioProjects/EndosCopyAndroid/app/src/main/res/layout/layout_sub_webview.xml"
+                qualifiers=""
+                type="layout" />
+            <file
+                name="main"
+                path="/Users/jdsong/AndroidStudioProjects/EndosCopyAndroid/app/src/main/res/layout/main.xml"
+                qualifiers=""
+                type="layout" />
+            <file
+                name="main_layout"
+                path="/Users/jdsong/AndroidStudioProjects/EndosCopyAndroid/app/src/main/res/layout/main_layout.xml"
+                qualifiers=""
+                type="layout" />
+            <file
+                name="splash_layout"
+                path="/Users/jdsong/AndroidStudioProjects/EndosCopyAndroid/app/src/main/res/layout/splash_layout.xml"
+                qualifiers=""
+                type="layout" />
+            <file
+                name="titlebar_layout"
+                path="/Users/jdsong/AndroidStudioProjects/EndosCopyAndroid/app/src/main/res/layout/titlebar_layout.xml"
+                qualifiers=""
+                type="layout" />
+            <file
+                path="/Users/jdsong/AndroidStudioProjects/EndosCopyAndroid/app/src/main/res/values/color.xml"
+                qualifiers="" >
+                <color name="d_blue" >#6D7B92
+                </color>
+                <color name="blue" >#00E
+                </color>
+                <color name="white" >#FFF
+                </color>
+                <color name="black" >#000
+                </color>
+                <color name="red" >#F00
+                </color>
+                <color name="gray" >#CCCCCC
+                </color>
+                <color name="l_blue" >#909BAA
+                </color>
+                <color name="d_gray" >#666
+                </color>
+            </file>
+            <file
+                path="/Users/jdsong/AndroidStudioProjects/EndosCopyAndroid/app/src/main/res/values/dimens.xml"
+                qualifiers="" >
+                <dimen name="main_text_size" >12sp
+                </dimen>
+            </file>
+            <file
+                path="/Users/jdsong/AndroidStudioProjects/EndosCopyAndroid/app/src/main/res/values/integers.xml"
+                qualifiers="" >
+                <integer name="card_flip_time_full" >
+300
+                </integer>
+                <integer name="card_flip_time_half" >
+150
+                </integer>
+            </file>
+            <file
+                path="/Users/jdsong/AndroidStudioProjects/EndosCopyAndroid/app/src/main/res/values/strings.xml"
+                qualifiers="" >
+                <string-array name="page2s_subtitles" >
+                    <item>
+대장내시경
+                    </item>
+                    <item>
+정상 소견
+                    </item>
+                    <item>
+질환들
+                    </item>
+                    <item>
+샘종과 대장암
+                    </item>
+                    <item>
+적응증
+                    </item>
+                    <item>
+검사 및 플립제거술
+                    </item>
+                    <item>
+검사 전 식사
+                    </item>
+                    <item>
+장정결제의 복용
+                    </item>
+                    <item>
+합병증
+                    </item>
+                </string-array>
+
+                <string name="top_button5_eng" >Biopsy
+                </string>
+                <string name="top_button3_eng" >ERCP
+                </string>
+                <string name="top_button4_eng" >Caution
+                </string>
+
+                <string-array name="page1s_subtitles" >
+                    <item>
+상부위장관내시경이란?
+                    </item>
+                    <item>
+정상 소견
+                    </item>
+                    <item>
+질환들
+                    </item>
+                    <item>
+적응증
+                    </item>
+                    <item>
+검사 방법
+                    </item>
+                    <item>
+검사 전 준비
+                    </item>
+                    <item>
+합병증
+                    </item>
+                </string-array>
+
+                <string name="info_top_text" >대한소화기내시경학회/대한소화기내시경연구재단 (Korean Society of Gastrointestinal Endoscopy/Korean Gastrointestinal Endoscopy Research Foundation)은 소화기질환과 소화기내시경관련 학술연구를 통해 국민 건강 증진에 기여함을 목적으로 하는 의사들의 비영리 학술단체입니다. 소화기내시경은 최근 의학과 과학 기술의 진보로 빠르게 발전하고 있습니다. 
+1976년 창립된 저희 학회는 지속적인 학술과 교육활동을 통해 내시경 질 향상을 노력하여 세계적 수준으로 이끌어 국민건강 향상을 위해 최선을 다하고 있습니다. 
+대한소화기내시경학회에서는 국민에게 다가서는 의학설명서 사업으로 내시경 안내앱을 제작하여 보급합니다.
+                </string>
+                <string name="top_button6_eng" >수면내시경
+                </string>
+                <string name="top_button4" >주의를 요하는 환자
+                </string>
+                <string name="top_bottomtext1" >대한소화기내시경학과
+                </string>
+                <string name="top_button5" >조직검사
+                </string>
+                <string name="top_bottomtext2" >대한소화기내시경연구재단
+                </string>
+                <string name="top_button2" >대장내시경
+                </string>
+                <string name="top_button2_eng" >Colonoscopy
+                </string>
+                <string name="top_button3" >담췌관내시경
+                </string>
+
+                <string-array name="page3s_subtitles" >
+                    <item>
+담췌관내시경이란?
+                    </item>
+                    <item>
+적응증
+                    </item>
+                    <item>
+질환들
+                    </item>
+                    <item>
+시술 전 준비
+                    </item>
+                    <item>
+시술 방법
+                    </item>
+                    <item>
+다른 치료가 필요한 경우
+                    </item>
+                    <item>
+합병증
+                    </item>
+                    <item>
+시술 후 주의사항
+                    </item>
+                </string-array>
+                <string-array name="page6s_subtitles" />
+                <string-array name="page4s_subtitles" />
+
+                <string name="logo_image_description" >대한소화기내시경연구재단
+                </string>
+                <string name="top_button6" >의식하진정내시경
+                </string>
+                <string name="info_bottom_text" >제작 | 대한소화기내시경학회 (Korean Society of Gastrointestinal Endoscopy)/\n대한소화기내시경연구재단 (Korean Gastrointestinal Endoscopy Research Foundation)\n
+	    - 이사장: 김명환 (서울아산병원), 회장: 설상영 (인제의대부산백병원)\n
+		- 정보전산이사: 이종균 (삼성서울병원), 간사: 이광혁 (삼성서울병원)\n
+		- 제작팀: 한정호 (충북대병원, 팀장), 고동희 (동탄성심병원), 홍성노 (삼성서울병원), 이혁 (신촌세브란스병원)\n
+		- 앱제작 | 임재균 (HIC)\n
+		- illustration | 정훈이 (만화가),  ERCP illustration book (군자출판사)\n
+		Copyright ⓒ 2013. Korean Society of Gastrointestinal Endocsopy. All rights Reserved
+                </string>
+
+                <string-array name="page5s_subtitles" >
+                    <item>
+조직검사란?(Biopsy)
+                    </item>
+                    <item>
+슬라이드 판독 및 제작
+                    </item>
+                    <item>
+주의점
+                    </item>
+                </string-array>
+
+                <string name="app_name" >도와주세요.내시경!
+                </string>
+                <string name="top_button1_eng" >Esophagogastroduodenoscopy
+                </string>
+                <string name="top_button1" >상부위장관내시경
+                </string>
+            </file>
+            <file
+                path="/Users/jdsong/AndroidStudioProjects/EndosCopyAndroid/app/src/main/res/values/styles.xml"
+                qualifiers="" >
+
+                <style
+                    name="AppThemeWithNoTitle"
+                    parent="AppTheme" >
+                    <item name="android:windowNoTitle">
+true
+                    </item>
+                </style>
+
+                <style
+                    name="AppBaseTheme"
+                    parent="android:Theme.Light" >
+
+                    <!--
+            Theme customizations available in newer API levels can go in
+            res/values-vXX/styles.xml, while customizations related to
+            backward-compatibility can go here.
+                    -->
+                </style>
+
+                <style name="indicator_style" >
+                    <item name="android:layout_width">
+fill_parent
+                    </item>
+                    <item name="android:layout_height">
+4dip
+                    </item>
+                    <item name="android:background">
+@color/l_blue
+                    </item>
+                    <item name="android:orientation">
+vertical
+                    </item>
+                </style>
+
+                <style
+                    name="Theme"
+                    parent="android:Theme" >
+                    <item name="android:background">
+@null
+                    </item>
+                    <item name="android:windowNoTitle">
+true
+                    </item>
+                </style>
+
+                <style name="CustomWindowTitleBarBG" >
+                    <item name="android:background">
+#FFF
+                    </item>
+                </style>
+
+                <style
+                    name="AppTheme"
+                    parent="AppBaseTheme" >
+
+                    <!-- All customizations that are NOT specific to a particular API-level can go here. -->
+                    <item name="android:windowActionBar">
+false
+                    </item>
+                    <item name="android:windowTitleSize">
+60dp
+                    </item>
+                    <item name="android:windowTitleBackgroundStyle">
+@style/CustomWindowTitleBarBG
+                    </item>
+                    <item name="android:windowContentOverlay">
+@null
+                    </item>
+                </style>
+            </file>
+            <file
+                path="/Users/jdsong/AndroidStudioProjects/EndosCopyAndroid/app/src/main/res/values-v11/styles.xml"
+                qualifiers="v11" >
+
+                <style
+                    name="AppBaseTheme"
+                    parent="android:Theme.Holo.Light" >
+
+                    <!-- API 11 theme customizations can go here. -->
+                </style>
+            </file>
+            <file
+                path="/Users/jdsong/AndroidStudioProjects/EndosCopyAndroid/app/src/main/res/values-v14/styles.xml"
+                qualifiers="v14" >
+
+                <style
+                    name="AppBaseTheme"
+                    parent="android:Theme.Holo.Light.DarkActionBar" >
+
+                    <!-- API 14 theme customizations can go here. -->
+                </style>
+            </file>
+        </source>
+        <source path="/Users/jdsong/AndroidStudioProjects/EndosCopyAndroid/app/build/res/rs/debug" />
+    </dataSet>
+    <dataSet config="debug" >
+        <source path="/Users/jdsong/AndroidStudioProjects/EndosCopyAndroid/app/src/debug/res" />
+    </dataSet>
+
+</merger>

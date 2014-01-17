@@ -1,0 +1,25 @@
+<!-- From: file:/Users/jdsong/AndroidStudioProjects/EndosCopyAndroid/app/src/main/AndroidManifest.xml -->
+<manifest xmlns:android="http://schemas.android.com/apk/res/android" android:versionCode="1" android:versionName="1.0" package="com.jd.app.endoscopyandroid">
+
+    <uses-sdk android:minSdkVersion="8" android:targetSdkVersion="18"/>
+
+    <application android:allowBackup="true" android:debuggable="false" android:icon="@drawable/ic_launcher" android:label="@string/app_name" android:theme="@style/AppTheme">
+        <activity android:label="@string/app_name" android:name="com.jd.app.endoscopyandroid.activity.SplashActivity" android:screenOrientation="portrait" android:theme="@style/AppThemeWithNoTitle">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN"/>
+                <category android:name="android.intent.category.LAUNCHER"/>
+            </intent-filter>
+        </activity>
+        <activity android:label="@string/app_name" android:name="com.jd.app.endoscopyandroid.activity.MainActivity" android:screenOrientation="portrait" android:theme="@style/AppThemeWithNoTitle">
+        </activity>
+        <activity android:label="@string/app_name" android:name="com.jd.app.endoscopyandroid.activity.InfoActivity" android:screenOrientation="portrait" android:theme="@style/AppThemeWithNoTitle">
+        </activity>
+        <activity android:label="@string/app_name" android:name="com.jd.app.endoscopyandroid.activity.SubActivity1" android:screenOrientation="portrait"/>
+        <activity android:label="@string/app_name" android:name="com.jd.app.endoscopyandroid.activity.SubActivity2" android:screenOrientation="portrait"/>
+        <activity android:label="@string/app_name" android:name="com.jd.app.endoscopyandroid.activity.SubActivity3" android:screenOrientation="portrait"/>
+        <activity android:label="@string/app_name" android:name="com.jd.app.endoscopyandroid.activity.SubActivity4" android:screenOrientation="portrait"/>
+        <activity android:label="@string/app_name" android:name="com.jd.app.endoscopyandroid.activity.SubActivity5" android:screenOrientation="portrait"/>
+        <activity android:label="@string/app_name" android:name="com.jd.app.endoscopyandroid.activity.SubActivity6" android:screenOrientation="portrait"/>
+    </application>
+
+</manifest>

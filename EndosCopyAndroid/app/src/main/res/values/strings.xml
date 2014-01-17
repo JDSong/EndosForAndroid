@@ -1,0 +1,75 @@
+<resources>
+
+    <string name="app_name">도와주세요.내시경!</string>
+    
+    <string name="top_button1">상부위장관내시경</string>
+    <string name="top_button1_eng">Esophagogastroduodenoscopy</string>
+    <string-array name="page1s_subtitles">
+        <item>상부위장관내시경이란?</item>
+        <item>정상 소견</item>
+        <item>질환들</item>
+        <item>적응증</item>
+        <item>검사 방법</item>
+        <item>검사 전 준비</item>
+        <item>합병증</item>
+    </string-array>
+    
+    <string name="top_button2">대장내시경</string>
+    <string name="top_button2_eng">Colonoscopy</string>
+    <string-array name="page2s_subtitles">
+        <item>대장내시경</item>
+        <item>정상 소견</item>
+        <item>질환들</item>
+        <item>샘종과 대장암</item>
+        <item>적응증</item>
+        <item>검사 및 플립제거술</item>
+        <item>검사 전 식사</item>
+        <item>장정결제의 복용</item>
+        <item>합병증</item>
+    </string-array>
+    
+    <string name="top_button3">담췌관내시경</string>
+    <string name="top_button3_eng">ERCP</string>
+    <string-array name="page3s_subtitles">
+        <item>담췌관내시경이란?</item>
+        <item>적응증</item>
+        <item>질환들</item>
+        <item>시술 전 준비</item>
+        <item>시술 방법</item>
+        <item>다른 치료가 필요한 경우</item>
+        <item>합병증</item>
+        <item>시술 후 주의사항</item>
+    </string-array>
+    
+    <string name="top_button4">주의를 요하는 환자</string>
+    <string name="top_button4_eng">Caution</string>
+    <string-array name="page4s_subtitles"/>
+    
+    <string name="top_button5">조직검사</string>
+    <string name="top_button5_eng">Biopsy</string>
+    <string-array name="page5s_subtitles">
+        <item>조직검사란?(Biopsy)</item>
+        <item>슬라이드 판독 및 제작</item>
+        <item>주의점</item>
+    </string-array>
+    
+    <string name="top_button6">의식하진정내시경</string>
+    <string name="top_button6_eng">수면내시경</string>
+    <string-array name="page6s_subtitles"/>
+    
+    <string name="top_bottomtext1">대한소화기내시경학과</string>
+    <string name="top_bottomtext2">대한소화기내시경연구재단</string>
+    
+    <string name="logo_image_description">대한소화기내시경연구재단</string>
+    
+    <string name="info_top_text">대한소화기내시경학회/대한소화기내시경연구재단 (Korean Society of Gastrointestinal Endoscopy/Korean Gastrointestinal Endoscopy Research Foundation)은 소화기질환과 소화기내시경관련 학술연구를 통해 국민 건강 증진에 기여함을 목적으로 하는 의사들의 비영리 학술단체입니다. 소화기내시경은 최근 의학과 과학 기술의 진보로 빠르게 발전하고 있습니다. 
+1976년 창립된 저희 학회는 지속적인 학술과 교육활동을 통해 내시경 질 향상을 노력하여 세계적 수준으로 이끌어 국민건강 향상을 위해 최선을 다하고 있습니다. 
+대한소화기내시경학회에서는 국민에게 다가서는 의학설명서 사업으로 내시경 안내앱을 제작하여 보급합니다.</string>
+	<string name="info_bottom_text">제작 | 대한소화기내시경학회 (Korean Society of Gastrointestinal Endoscopy)/\n대한소화기내시경연구재단 (Korean Gastrointestinal Endoscopy Research Foundation)\n
+	    - 이사장: 김명환 (서울아산병원), 회장: 설상영 (인제의대부산백병원)\n
+		- 정보전산이사: 이종균 (삼성서울병원), 간사: 이광혁 (삼성서울병원)\n
+		- 제작팀: 한정호 (충북대병원, 팀장), 고동희 (동탄성심병원), 홍성노 (삼성서울병원), 이혁 (신촌세브란스병원)\n
+		- 앱제작 | 임재균 (HIC)\n
+		- illustration | 정훈이 (만화가),  ERCP illustration book (군자출판사)\n
+		Copyright ⓒ 2013. Korean Society of Gastrointestinal Endocsopy. All rights Reserved</string>
+</resources>

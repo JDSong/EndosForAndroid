@@ -1,0 +1,71 @@
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.jd.app.endoscopyandroid"
+    android:versionCode="1"
+    android:versionName="1.0" >
+
+    <uses-sdk
+        android:minSdkVersion="8"
+        android:targetSdkVersion="18" />
+
+    <application
+        android:allowBackup="true"
+        android:icon="@drawable/ic_launcher"
+        android:label="@string/app_name"        
+        android:theme="@style/AppTheme"
+        android:debuggable="false"
+        >
+        <activity
+            android:name=".activity.SplashActivity"
+            android:label="@string/app_name"
+            android:theme="@style/AppThemeWithNoTitle"
+            android:screenOrientation="portrait">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name=".activity.MainActivity"
+            android:label="@string/app_name"
+            android:theme="@style/AppThemeWithNoTitle"
+            android:screenOrientation="portrait">
+        </activity>
+        <activity
+            android:name=".activity.InfoActivity"
+            android:label="@string/app_name"
+            android:theme="@style/AppThemeWithNoTitle"
+            android:screenOrientation="portrait">
+        </activity>
+        <activity
+            android:name=".activity.SubActivity1"
+            android:label="@string/app_name"
+            android:screenOrientation="portrait"
+            />
+        <activity
+            android:name=".activity.SubActivity2"
+            android:label="@string/app_name"
+            android:screenOrientation="portrait"
+            />
+        <activity
+            android:name=".activity.SubActivity3"
+            android:label="@string/app_name"
+            android:screenOrientation="portrait"
+            />
+        <activity
+            android:name=".activity.SubActivity4"
+            android:label="@string/app_name"
+            android:screenOrientation="portrait"
+            />
+        <activity
+            android:name=".activity.SubActivity5"
+            android:label="@string/app_name"
+            android:screenOrientation="portrait"
+            />
+        <activity
+            android:name=".activity.SubActivity6"
+            android:label="@string/app_name"
+            android:screenOrientation="portrait"
+            />
+    </application>
+
+</manifest>

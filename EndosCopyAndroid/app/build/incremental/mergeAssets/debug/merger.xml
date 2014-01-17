@@ -1,0 +1,273 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger>
+
+    <dataSet config="main" >
+        <source path="/Users/jdsong/AndroidStudioProjects/EndosCopyAndroid/app/src/main/assets" >
+            <file
+                name="html_1/gastricview1.html"
+                path="/Users/jdsong/AndroidStudioProjects/EndosCopyAndroid/app/src/main/assets/html_1/gastricview1.html" />
+            <file
+                name="html_1/gastricview2.html"
+                path="/Users/jdsong/AndroidStudioProjects/EndosCopyAndroid/app/src/main/assets/html_1/gastricview2.html" />
+            <file
+                name="html_1/gastricview3.html"
+                path="/Users/jdsong/AndroidStudioProjects/EndosCopyAndroid/app/src/main/assets/html_1/gastricview3.html" />
+            <file
+                name="html_1/gastricview4.html"
+                path="/Users/jdsong/AndroidStudioProjects/EndosCopyAndroid/app/src/main/assets/html_1/gastricview4.html" />
+            <file
+                name="html_1/gastricview5.html"
+                path="/Users/jdsong/AndroidStudioProjects/EndosCopyAndroid/app/src/main/assets/html_1/gastricview5.html" />
+            <file
+                name="html_1/gastricview6.html"
+                path="/Users/jdsong/AndroidStudioProjects/EndosCopyAndroid/app/src/main/assets/html_1/gastricview6.html" />
+            <file
+                name="html_1/gastricview7.html"
+                path="/Users/jdsong/AndroidStudioProjects/EndosCopyAndroid/app/src/main/assets/html_1/gastricview7.html" />
+            <file
+                name="html_1/Images/gastric1_1.png"
+                path="/Users/jdsong/AndroidStudioProjects/EndosCopyAndroid/app/src/main/assets/html_1/Images/gastric1_1.png" />
+            <file
+                name="html_1/Images/gastric1_2.png"
+                path="/Users/jdsong/AndroidStudioProjects/EndosCopyAndroid/app/src/main/assets/html_1/Images/gastric1_2.png" />
+            <file
+                name="html_1/Images/gastric2_0.png"
+                path="/Users/jdsong/AndroidStudioProjects/EndosCopyAndroid/app/src/main/assets/html_1/Images/gastric2_0.png" />
+            <file
+                name="html_1/Images/gastric2_1.jpg"
+                path="/Users/jdsong/AndroidStudioProjects/EndosCopyAndroid/app/src/main/assets/html_1/Images/gastric2_1.jpg" />
+            <file
+                name="html_1/Images/gastric2_2.jpg"
+                path="/Users/jdsong/AndroidStudioProjects/EndosCopyAndroid/app/src/main/assets/html_1/Images/gastric2_2.jpg" />
+            <file
+                name="html_1/Images/gastric2_3.jpg"
+                path="/Users/jdsong/AndroidStudioProjects/EndosCopyAndroid/app/src/main/assets/html_1/Images/gastric2_3.jpg" />
+            <file
+                name="html_1/Images/gastric2_4.jpg"
+                path="/Users/jdsong/AndroidStudioProjects/EndosCopyAndroid/app/src/main/assets/html_1/Images/gastric2_4.jpg" />
+            <file
+                name="html_1/Images/gastric2_5.jpg"
+                path="/Users/jdsong/AndroidStudioProjects/EndosCopyAndroid/app/src/main/assets/html_1/Images/gastric2_5.jpg" />
+            <file
+                name="html_1/Images/gastric2_6.jpg"
+                path="/Users/jdsong/AndroidStudioProjects/EndosCopyAndroid/app/src/main/assets/html_1/Images/gastric2_6.jpg" />
+            <file
+                name="html_1/Images/gastric3_1.jpg"
+                path="/Users/jdsong/AndroidStudioProjects/EndosCopyAndroid/app/src/main/assets/html_1/Images/gastric3_1.jpg" />
+            <file
+                name="html_1/Images/gastric3_2.jpg"
+                path="/Users/jdsong/AndroidStudioProjects/EndosCopyAndroid/app/src/main/assets/html_1/Images/gastric3_2.jpg" />
+            <file
+                name="html_1/Images/gastric3_3.jpg"
+                path="/Users/jdsong/AndroidStudioProjects/EndosCopyAndroid/app/src/main/assets/html_1/Images/gastric3_3.jpg" />
+            <file
+                name="html_1/Images/gastric3_4.jpg"
+                path="/Users/jdsong/AndroidStudioProjects/EndosCopyAndroid/app/src/main/assets/html_1/Images/gastric3_4.jpg" />
+            <file
+                name="html_1/Images/gastric3_5.jpg"
+                path="/Users/jdsong/AndroidStudioProjects/EndosCopyAndroid/app/src/main/assets/html_1/Images/gastric3_5.jpg" />
+            <file
+                name="html_1/Images/gastric3_6.jpg"
+                path="/Users/jdsong/AndroidStudioProjects/EndosCopyAndroid/app/src/main/assets/html_1/Images/gastric3_6.jpg" />
+            <file
+                name="html_1/Images/gastric3_7.jpg"
+                path="/Users/jdsong/AndroidStudioProjects/EndosCopyAndroid/app/src/main/assets/html_1/Images/gastric3_7.jpg" />
+            <file
+                name="html_1/Images/gastric3_8.jpg"
+                path="/Users/jdsong/AndroidStudioProjects/EndosCopyAndroid/app/src/main/assets/html_1/Images/gastric3_8.jpg" />
+            <file
+                name="html_1/Images/gastric3_9.jpg"
+                path="/Users/jdsong/AndroidStudioProjects/EndosCopyAndroid/app/src/main/assets/html_1/Images/gastric3_9.jpg" />
+            <file
+                name="html_1/Images/gastric5_1.png"
+                path="/Users/jdsong/AndroidStudioProjects/EndosCopyAndroid/app/src/main/assets/html_1/Images/gastric5_1.png" />
+            <file
+                name="html_2/colonview1.html"
+                path="/Users/jdsong/AndroidStudioProjects/EndosCopyAndroid/app/src/main/assets/html_2/colonview1.html" />
+            <file
+                name="html_2/colonview2.html"
+                path="/Users/jdsong/AndroidStudioProjects/EndosCopyAndroid/app/src/main/assets/html_2/colonview2.html" />
+            <file
+                name="html_2/colonview3.html"
+                path="/Users/jdsong/AndroidStudioProjects/EndosCopyAndroid/app/src/main/assets/html_2/colonview3.html" />
+            <file
+                name="html_2/colonview4.html"
+                path="/Users/jdsong/AndroidStudioProjects/EndosCopyAndroid/app/src/main/assets/html_2/colonview4.html" />
+            <file
+                name="html_2/colonview5.html"
+                path="/Users/jdsong/AndroidStudioProjects/EndosCopyAndroid/app/src/main/assets/html_2/colonview5.html" />
+            <file
+                name="html_2/colonview6.html"
+                path="/Users/jdsong/AndroidStudioProjects/EndosCopyAndroid/app/src/main/assets/html_2/colonview6.html" />
+            <file
+                name="html_2/colonview7.html"
+                path="/Users/jdsong/AndroidStudioProjects/EndosCopyAndroid/app/src/main/assets/html_2/colonview7.html" />
+            <file
+                name="html_2/colonview8.html"
+                path="/Users/jdsong/AndroidStudioProjects/EndosCopyAndroid/app/src/main/assets/html_2/colonview8.html" />
+            <file
+                name="html_2/colonview9.html"
+                path="/Users/jdsong/AndroidStudioProjects/EndosCopyAndroid/app/src/main/assets/html_2/colonview9.html" />
+            <file
+                name="html_2/Images/colon1_1.jpg"
+                path="/Users/jdsong/AndroidStudioProjects/EndosCopyAndroid/app/src/main/assets/html_2/Images/colon1_1.jpg" />
+            <file
+                name="html_2/Images/colon2_1.jpg"
+                path="/Users/jdsong/AndroidStudioProjects/EndosCopyAndroid/app/src/main/assets/html_2/Images/colon2_1.jpg" />
+            <file
+                name="html_2/Images/colon2_10.jpg"
+                path="/Users/jdsong/AndroidStudioProjects/EndosCopyAndroid/app/src/main/assets/html_2/Images/colon2_10.jpg" />
+            <file
+                name="html_2/Images/colon2_2.jpg"
+                path="/Users/jdsong/AndroidStudioProjects/EndosCopyAndroid/app/src/main/assets/html_2/Images/colon2_2.jpg" />
+            <file
+                name="html_2/Images/colon2_3.jpg"
+                path="/Users/jdsong/AndroidStudioProjects/EndosCopyAndroid/app/src/main/assets/html_2/Images/colon2_3.jpg" />
+            <file
+                name="html_2/Images/colon2_4.jpg"
+                path="/Users/jdsong/AndroidStudioProjects/EndosCopyAndroid/app/src/main/assets/html_2/Images/colon2_4.jpg" />
+            <file
+                name="html_2/Images/colon2_5.jpg"
+                path="/Users/jdsong/AndroidStudioProjects/EndosCopyAndroid/app/src/main/assets/html_2/Images/colon2_5.jpg" />
+            <file
+                name="html_2/Images/colon2_6.jpg"
+                path="/Users/jdsong/AndroidStudioProjects/EndosCopyAndroid/app/src/main/assets/html_2/Images/colon2_6.jpg" />
+            <file
+                name="html_2/Images/colon2_7.jpg"
+                path="/Users/jdsong/AndroidStudioProjects/EndosCopyAndroid/app/src/main/assets/html_2/Images/colon2_7.jpg" />
+            <file
+                name="html_2/Images/colon2_8.jpg"
+                path="/Users/jdsong/AndroidStudioProjects/EndosCopyAndroid/app/src/main/assets/html_2/Images/colon2_8.jpg" />
+            <file
+                name="html_2/Images/colon2_9.jpg"
+                path="/Users/jdsong/AndroidStudioProjects/EndosCopyAndroid/app/src/main/assets/html_2/Images/colon2_9.jpg" />
+            <file
+                name="html_2/Images/colon3_1.jpg"
+                path="/Users/jdsong/AndroidStudioProjects/EndosCopyAndroid/app/src/main/assets/html_2/Images/colon3_1.jpg" />
+            <file
+                name="html_2/Images/colon3_2.jpg"
+                path="/Users/jdsong/AndroidStudioProjects/EndosCopyAndroid/app/src/main/assets/html_2/Images/colon3_2.jpg" />
+            <file
+                name="html_2/Images/colon3_3.jpg"
+                path="/Users/jdsong/AndroidStudioProjects/EndosCopyAndroid/app/src/main/assets/html_2/Images/colon3_3.jpg" />
+            <file
+                name="html_2/Images/colon3_4.png"
+                path="/Users/jdsong/AndroidStudioProjects/EndosCopyAndroid/app/src/main/assets/html_2/Images/colon3_4.png" />
+            <file
+                name="html_2/Images/colon3_5.png"
+                path="/Users/jdsong/AndroidStudioProjects/EndosCopyAndroid/app/src/main/assets/html_2/Images/colon3_5.png" />
+            <file
+                name="html_2/Images/colon3_6.jpg"
+                path="/Users/jdsong/AndroidStudioProjects/EndosCopyAndroid/app/src/main/assets/html_2/Images/colon3_6.jpg" />
+            <file
+                name="html_2/Images/colon3_7.jpg"
+                path="/Users/jdsong/AndroidStudioProjects/EndosCopyAndroid/app/src/main/assets/html_2/Images/colon3_7.jpg" />
+            <file
+                name="html_2/Images/colon3_8.png"
+                path="/Users/jdsong/AndroidStudioProjects/EndosCopyAndroid/app/src/main/assets/html_2/Images/colon3_8.png" />
+            <file
+                name="html_2/Images/colon4_1.jpg"
+                path="/Users/jdsong/AndroidStudioProjects/EndosCopyAndroid/app/src/main/assets/html_2/Images/colon4_1.jpg" />
+            <file
+                name="html_2/Images/colon5_1.jpg"
+                path="/Users/jdsong/AndroidStudioProjects/EndosCopyAndroid/app/src/main/assets/html_2/Images/colon5_1.jpg" />
+            <file
+                name="html_2/Images/colon5_2.png"
+                path="/Users/jdsong/AndroidStudioProjects/EndosCopyAndroid/app/src/main/assets/html_2/Images/colon5_2.png" />
+            <file
+                name="html_3/ercpview1.html"
+                path="/Users/jdsong/AndroidStudioProjects/EndosCopyAndroid/app/src/main/assets/html_3/ercpview1.html" />
+            <file
+                name="html_3/ercpview2.html"
+                path="/Users/jdsong/AndroidStudioProjects/EndosCopyAndroid/app/src/main/assets/html_3/ercpview2.html" />
+            <file
+                name="html_3/ercpview3.html"
+                path="/Users/jdsong/AndroidStudioProjects/EndosCopyAndroid/app/src/main/assets/html_3/ercpview3.html" />
+            <file
+                name="html_3/ercpview4.html"
+                path="/Users/jdsong/AndroidStudioProjects/EndosCopyAndroid/app/src/main/assets/html_3/ercpview4.html" />
+            <file
+                name="html_3/ercpview5.html"
+                path="/Users/jdsong/AndroidStudioProjects/EndosCopyAndroid/app/src/main/assets/html_3/ercpview5.html" />
+            <file
+                name="html_3/ercpview6.html"
+                path="/Users/jdsong/AndroidStudioProjects/EndosCopyAndroid/app/src/main/assets/html_3/ercpview6.html" />
+            <file
+                name="html_3/ercpview7.html"
+                path="/Users/jdsong/AndroidStudioProjects/EndosCopyAndroid/app/src/main/assets/html_3/ercpview7.html" />
+            <file
+                name="html_3/ercpview8.html"
+                path="/Users/jdsong/AndroidStudioProjects/EndosCopyAndroid/app/src/main/assets/html_3/ercpview8.html" />
+            <file
+                name="html_3/Images/ercp1_1.png"
+                path="/Users/jdsong/AndroidStudioProjects/EndosCopyAndroid/app/src/main/assets/html_3/Images/ercp1_1.png" />
+            <file
+                name="html_3/Images/ercp3_1.png"
+                path="/Users/jdsong/AndroidStudioProjects/EndosCopyAndroid/app/src/main/assets/html_3/Images/ercp3_1.png" />
+            <file
+                name="html_3/Images/ercp3_2.png"
+                path="/Users/jdsong/AndroidStudioProjects/EndosCopyAndroid/app/src/main/assets/html_3/Images/ercp3_2.png" />
+            <file
+                name="html_3/Images/ercp3_3.png"
+                path="/Users/jdsong/AndroidStudioProjects/EndosCopyAndroid/app/src/main/assets/html_3/Images/ercp3_3.png" />
+            <file
+                name="html_3/Images/ercp3_4.png"
+                path="/Users/jdsong/AndroidStudioProjects/EndosCopyAndroid/app/src/main/assets/html_3/Images/ercp3_4.png" />
+            <file
+                name="html_3/Images/ercp5_1.png"
+                path="/Users/jdsong/AndroidStudioProjects/EndosCopyAndroid/app/src/main/assets/html_3/Images/ercp5_1.png" />
+            <file
+                name="html_3/Images/ercp5_2.png"
+                path="/Users/jdsong/AndroidStudioProjects/EndosCopyAndroid/app/src/main/assets/html_3/Images/ercp5_2.png" />
+            <file
+                name="html_3/Images/ercp5_3.png"
+                path="/Users/jdsong/AndroidStudioProjects/EndosCopyAndroid/app/src/main/assets/html_3/Images/ercp5_3.png" />
+            <file
+                name="html_3/Images/ercp5_4.png"
+                path="/Users/jdsong/AndroidStudioProjects/EndosCopyAndroid/app/src/main/assets/html_3/Images/ercp5_4.png" />
+            <file
+                name="html_3/Images/ercp5_5.png"
+                path="/Users/jdsong/AndroidStudioProjects/EndosCopyAndroid/app/src/main/assets/html_3/Images/ercp5_5.png" />
+            <file
+                name="html_3/Images/ercp7_1.png"
+                path="/Users/jdsong/AndroidStudioProjects/EndosCopyAndroid/app/src/main/assets/html_3/Images/ercp7_1.png" />
+            <file
+                name="html_3/Images/ercp7_2.png"
+                path="/Users/jdsong/AndroidStudioProjects/EndosCopyAndroid/app/src/main/assets/html_3/Images/ercp7_2.png" />
+            <file
+                name="html_4/cautionview1.html"
+                path="/Users/jdsong/AndroidStudioProjects/EndosCopyAndroid/app/src/main/assets/html_4/cautionview1.html" />
+            <file
+                name="html_4/Images/caution1.png"
+                path="/Users/jdsong/AndroidStudioProjects/EndosCopyAndroid/app/src/main/assets/html_4/Images/caution1.png" />
+            <file
+                name="html_5/conview1.html"
+                path="/Users/jdsong/AndroidStudioProjects/EndosCopyAndroid/app/src/main/assets/html_5/conview1.html" />
+            <file
+                name="html_6/biopsyview1.html"
+                path="/Users/jdsong/AndroidStudioProjects/EndosCopyAndroid/app/src/main/assets/html_6/biopsyview1.html" />
+            <file
+                name="html_6/biopsyview2.html"
+                path="/Users/jdsong/AndroidStudioProjects/EndosCopyAndroid/app/src/main/assets/html_6/biopsyview2.html" />
+            <file
+                name="html_6/biopsyview3.html"
+                path="/Users/jdsong/AndroidStudioProjects/EndosCopyAndroid/app/src/main/assets/html_6/biopsyview3.html" />
+            <file
+                name="html_6/Images/biopsy1_1.png"
+                path="/Users/jdsong/AndroidStudioProjects/EndosCopyAndroid/app/src/main/assets/html_6/Images/biopsy1_1.png" />
+            <file
+                name="html_6/Images/biopsy1_2.png"
+                path="/Users/jdsong/AndroidStudioProjects/EndosCopyAndroid/app/src/main/assets/html_6/Images/biopsy1_2.png" />
+            <file
+                name="html_6/Images/biopsy2_1.png"
+                path="/Users/jdsong/AndroidStudioProjects/EndosCopyAndroid/app/src/main/assets/html_6/Images/biopsy2_1.png" />
+            <file
+                name="html_6/Images/biopsy2_2.png"
+                path="/Users/jdsong/AndroidStudioProjects/EndosCopyAndroid/app/src/main/assets/html_6/Images/biopsy2_2.png" />
+        </source>
+    </dataSet>
+    <dataSet config="debug" >
+        <source path="/Users/jdsong/AndroidStudioProjects/EndosCopyAndroid/app/src/debug/assets" />
+    </dataSet>
+
+</merger>
